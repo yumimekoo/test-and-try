@@ -20,7 +20,7 @@ while(flag==false){
             flag=true;
         } 
     }
-    print(sum);
+    // print(sum);
     counter = 0;   
 }
 return sum; 
